@@ -49,7 +49,7 @@ This project demonstrates how to build a vertical chat application for a small b
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/vertical-chat-app.git
+   git clone github.com/DrNOFX97/lab-vertical-chat.git
    cd vertical-chat-app
    ```
 
